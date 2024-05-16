@@ -14,11 +14,18 @@ for mobile:"https://github.com/divyansiranpariya/student_data"
 - flutter/material.dart
 - image_picker
 
+
+
+https://github.com/divyansiranpariya/student_data/assets/154776848/c47189a6-2a73-4abe-bf28-23975994f2be
+
+
+
 # Screensorts
 
-![Screenshot_20240517_000403](https://github.com/divyansiranpariya/student_data/assets/154776848/5364eefe-8c27-4d8e-b426-ddb77d21fcf5)
-![s2](https://github.com/divyansiranpariya/student_data/assets/154776848/9d54c84a-e8de-4311-bfee-f0198f39eaa9)
-![stu3](https://github.com/divyansiranpariya/student_data/assets/154776848/c26ff1fc-7147-4660-8e66-7fc5d5201913)
-![stu4](https://github.com/divyansiranpariya/student_data/assets/154776848/53c50a3d-abdb-4ac4-a5ef-065d951e84b9)
-![s5 (1)](https://github.com/divyansiranpariya/student_data/assets/154776848/a23657b3-e2d5-46d8-be03-5881ee5a22fc)
-![stu6](https://github.com/divyansiranpariya/student_data/assets/154776848/b1828dc4-fbe3-48a3-8a00-f73e2f81be8e)
+
+![IMG-20240517-WA0006](https://github.com/divyansiranpariya/student_data/assets/154776848/01d5ee16-38fa-4357-98bf-4a00603aa2ba)
+![IMG-20240517-WA0005](https://github.com/divyansiranpariya/student_data/assets/154776848/9df18516-b67c-4878-8154-ee64b1be5a35)
+![IMG-20240517-WA0003](https://github.com/divyansiranpariya/student_data/assets/154776848/3157af03-0dc2-48bd-a4e9-766b49175e0e)
+![IMG-20240517-WA0003](https://github.com/divyansiranpariya/student_data/assets/154776848/651f13e8-06ae-46db-8dd1-6ee58ef52c79)
+![IMG-20240517-WA0001](https://github.com/divyansiranpariya/student_data/assets/154776848/57f7b636-fa0c-42e0-af13-77f62a0d335f)
+![IMG-20240517-WA0004](https://github.com/divyansiranpariya/student_data/assets/154776848/7a64b48c-bc6a-4921-90c8-9e4540b02a29)
