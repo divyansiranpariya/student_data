@@ -122,7 +122,7 @@ class _loginpageState extends State<loginpage> {
                   alignment: Alignment.center,
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(10),
-                    color: Colors.grey.shade300,
+                    color: Color(0xff102C57),
                   ),
                   child: Text(
                     "Signup",
@@ -153,44 +153,6 @@ class _loginpageState extends State<loginpage> {
                   ],
                 ),
               ),
-              // Padding(
-              //   padding: const EdgeInsets.only(
-              //       top: 10, left: 20, right: 20, bottom: 25),
-              //   child: Row(
-              //     children: [
-              //       Expanded(
-              //         child: Divider(
-              //           // indent: 30,
-              //           // endIndent: 200,
-              //           color: Colors.black,
-              //           thickness: 1,
-              //         ),
-              //       ),
-              //       Text("  Or  "),
-              //       Expanded(
-              //         child: Divider(
-              //           // indent: 30,
-              //           // endIndent: 200,
-              //           color: Colors.black,
-              //           thickness: 1,
-              //         ),
-              //       ),
-              //     ],
-              //   ),
-              // ),
-              // Container(
-              //   height: 40,
-              //   width: 300,
-              //   alignment: Alignment.center,
-              //   decoration: BoxDecoration(
-              //     borderRadius: BorderRadius.circular(10),
-              //     color: Colors.grey.shade300,
-              //   ),
-              //   child: Text(
-              //     "Login with Google",
-              //     style: TextStyle(color: primaryWhite),
-              //   ),
-              // ),
             ],
           ),
         ),
