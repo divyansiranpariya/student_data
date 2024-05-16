@@ -1,16 +1,19 @@
-# coreflutter_exam
+# Pupil
+This Pupil application allows users to add student details, including name, grid, standard, and a profile image. The details are then stored in a global list for further usage.
 
-A new Flutter project.
+for mobile:"https://github.com/divyansiranpariya/student_data"
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Add student details (name, grid, standard).
+- Pick a profile image from the gallery or capture a new one using the camera.
+- Clear the form to reset inputs.
+- Display the selected profile image in a circular avatar.
 
-A few resources to get you started if this is your first Flutter project:
+- ## Dependencies
+- 
+- `flutter/material.dart`
+- `image_picker`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Screensorts
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
